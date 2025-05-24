@@ -2,67 +2,53 @@ Kit de herramientas básicas
 
 Repositorio con utilidades esenciales para mantenimiento y soporte técnico.
 
-Información del sistema
+1. Información del sistema
 
 Herramienta: Speccy
-
 Descripción:
 Speccy muestra información detallada del hardware y sistema operativo: CPU, RAM, placa base, almacenamiento, etc.
-
 Descarga:
 https://www.ccleaner.com/speccy
-
 Video explicativo:
-https://www.youtube.com/watch?v=4KQKzU9sZgo
+https://www.youtube.com/watch?v=il-zoUrSdp0
 
-Testeo disco
+2. Testeo disco
 
 Herramienta: CrystalDiskInfo
-
 Descripción:
 Permite ver el estado SMART de los discos duros y SSDs. Muestra salud, temperatura, errores, y ciclos de uso.
-
 Descarga:
 https://crystalmark.info/en/software/crystaldiskinfo/
-
 Video explicativo:
-https://www.youtube.com/watch?v=JyXDtqg2FlI
+https://www.youtube.com/watch?v=_A1gx6gLAhs
 
-Recuperación de datos
+3. Recuperación de datos
 
 Herramienta: Recuva
-
 Descripción:
 Recupera archivos borrados accidentalmente de discos duros, memorias USB o tarjetas SD.
-
 Descarga:
 https://www.ccleaner.com/recuva
-
 Video explicativo:
-https://www.youtube.com/watch?v=iVmXAbP3KOA
+https://youtu.be/t55g2sfoPkY
 
-Recuperación de contraseñas
+4. Recuperación de contraseñas
 
-Herramienta: NirSoft WebBrowserPassView
-
+Herramienta: WebBrowserPassView (NirSoft)
 Descripción:
-Muestra las contraseñas guardadas por navegadores web como Chrome, Firefox y Edge.
-
+Muestra las contraseñas guardadas por navegadores como Chrome, Firefox y Edge.
 Descarga:
 https://www.nirsoft.net/utils/web_browser_password.html
-
 Video explicativo:
-https://www.youtube.com/watch?v=Q1KHNNkLk4g
+https://www.youtube.com/watch?v=xwEDeQRcFiY
 
-Libre - Herramienta útil
+5. Libre - Herramienta útil
 
 Herramienta: Rufus
-
 Descripción:
-Permite crear USBs booteables para instalar sistemas operativos. Ideal para técnicos de soporte.
-
+Permite crear USBs booteables para instalar sistemas operativos.
 Descarga:
 https://rufus.ie/
-
 Video explicativo:
-https://www.youtube.com/watch?v=qPT7L8zjzDQ
+https://www.youtube.com/watch?v=rcMJEtELzlA
+
